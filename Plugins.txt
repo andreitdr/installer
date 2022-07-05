@@ -1,0 +1,5 @@
+Leveling System,Leveling System (require commands too),Event,https://sethdiscordbot.000webhostapp.com/Storage/Discord%20Bot/Plugs/EVE_LevelingSystem.dll,Linux/Windows
+Startup Events,Some events for bot startup by Wizzy,Event,https://sethdiscordbot.000webhostapp.com/Storage/Discord%20Bot/Plugs/StartupEvents.dll,Linux/Windows
+Leveling System Commands,Leveling System commands (require event too),Command,https://sethdiscordbot.000webhostapp.com/Storage/Discord%20Bot/Plugs/CMD_LevelingSystem.dll,Linux/Windows
+Utility Commands,Some commands by Wizzy,Command,https://sethdiscordbot.000webhostapp.com/Storage/Discord%20Bot/Plugs/CMD_Utils.dll,Linux/Windows
+Music Commands,Some music commands,Command,https://sethdiscordbot.000webhostapp.com/Storage/Discord%20Bot/Plugs/MusicCommands.dll,Windows,https://sethdiscordbot.000webhostapp.com/Storage/Discord%20Bot/Plugs/Req/MusicCommands.req
