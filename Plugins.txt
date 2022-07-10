@@ -1,4 +1,4 @@
 Leveling System,Leveling System (require commands too),Event,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Events/EVE_LevelingSystem.dll,Linux/Windows
 Leveling System Commands,Leveling System commands (require event too),Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/CMD_LevelingSystem.dll,Linux/Windows
 Utility Commands,Some commands by Wizzy,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/CMD_Utils.dll,Linux/Windows
-Music Commands,Some music commands,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/MusicCommands.dll,Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommands.req
+Music Commands,Some music commands,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/Music%20Commands.dll,Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommands.req
