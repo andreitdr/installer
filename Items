@@ -1,1 +1,8 @@
 Epic Games,x64,https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+Steam,x64,https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe
+WinRAR,x32,https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x32-611.exe
+WinRAR,x64,https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe
+Deluge,x64,https://ftp.osuosl.org/pub/deluge/windows/deluge-2.1.1-win64-setup.exe
+Deluge,x32,https://ftp.osuosl.org/pub/deluge/windows/deluge-2.1.1-win32-setup.exe
+VSCode,x64,https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+VSCode,x32,https://code.visualstudio.com/sha/download?build=stable&os=win32-user
