@@ -4,7 +4,7 @@ public static class install
     public static async Task InstallModule(this Module module)
     {
         Console.WriteLine("Downloading ... Please wait !");
-        string location = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), module.Name + ".exe");
+        string location = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), module.Name + "_installer_01.exe");
         await ServerCom.DownloadFileAsync(module.DownloadURL, location);
         Console.WriteLine();
         Process p = new Process();
