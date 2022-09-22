@@ -1,10 +1,12 @@
 using System.Diagnostics;
 public static class install
 {
+    public static string DownloadLocation = "./Downloads/";
     public static async Task InstallModule(this Module module)
     {
+        Directory.CreateDirectory(DownloadLocation);
         Console.WriteLine("Downloading ... Please wait !");
-        string location = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), module.Name + "_installer_01.exe");
+        string location = Path.Combine(DownloadLocation, module.Name + "_installer.exe");
         await ServerCom.DownloadFileAsync(module.DownloadURL, location);
         Console.WriteLine();
         Process p = new Process();

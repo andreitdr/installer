@@ -2,11 +2,13 @@
 string OSDescription = System.Runtime.InteropServices.RuntimeInformation.OSDescription;
 string RuntimeIdentifier = System.Runtime.InteropServices.RuntimeInformation.RuntimeIdentifier;
 string csharpVersion = System.Runtime.InteropServices.RuntimeInformation.FrameworkDescription;
+
 Console.Title = "Installer - Wizzy#9181";
 Console.WriteLine("OS: " + OSDescription);
 Console.WriteLine("Runtime: " + RuntimeIdentifier);
 Console.WriteLine("Architecture: " + arch);
 Console.WriteLine("C# Version: " + csharpVersion);
+Console.WriteLine("Download location: " + install.DownloadLocation);
 Console.WriteLine("Use this tool to install any program that you need. \nUse help command to check what you can do");
 while (true)
 {
