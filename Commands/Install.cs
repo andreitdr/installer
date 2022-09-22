@@ -1,7 +1,7 @@
 using System.Diagnostics;
 public static class install
 {
-    public static string DownloadLocation = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+    public static string DownloadLocation = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "/Installer";
     public static async Task InstallModule(this Module module)
     {
         Console.WriteLine("Downloading ... Please wait !");
