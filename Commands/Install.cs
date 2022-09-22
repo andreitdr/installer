@@ -19,6 +19,7 @@ public static class install
         p.Start();
         await p.WaitForExitAsync();
 
+        File.Delete(location);
 
     }
 }
