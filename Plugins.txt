@@ -3,4 +3,3 @@
 #Utility Commands,Some commands by Wizzy,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/CMD_Utils.dll,Linux/Windows
 Music Commands,Some music commands,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/MusicLibrary.dll,Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommands.req
 #Roles,Roles commands,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/Roles.dll,Windows/Linux
-Updater,Updater for bot,Others,https://github.com/Wizzy69/installer/releases/download/release-1-discordbot/Updater.zip,Windows
