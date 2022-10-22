@@ -1,2 +1,2 @@
-Leveling System,Leveling System,Package (Event+Commands),https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Events/EVE_LevelingSystem.dll,Linux/Windows
+Leveling System,Leveling System,Event,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Events/EVE_LevelingSystem.dll,Linux/Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/LevelingSystem.req
 Music Commands,Some music commands,Command,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/Commands/MusicLibrary.dll,Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommands.req
