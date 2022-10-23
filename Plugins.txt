@@ -1,2 +1,2 @@
-Leveling System,Leveling System,Plugin,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/LevelingSystem.dll,Linux/Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/LevelingSystem.req
+Leveling System,Leveling System,Plugin,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/LevelingSystem.dll,Linux/Windows
 Music Commands,Some music commands,Plugin,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/MusicLibrary.dll,Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommands.req
