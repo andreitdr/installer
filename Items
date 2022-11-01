@@ -10,3 +10,5 @@ Deluge,x32,https://ftp.osuosl.org/pub/deluge/windows/deluge-2.1.1-win32-setup.ex
 
 VSCode,x64,https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user,Code Editor
 VSCode,x32,https://code.visualstudio.com/sha/download?build=stable&os=win32-user,Code Editor
+
+Origin,x64,https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe,Game Launcher
