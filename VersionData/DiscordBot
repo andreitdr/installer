@@ -1,6 +1,5 @@
-&gDiscord bot v1.0.1.1
-&c  1. Added new commands and functions to make the plugin development more friendly.
-&c  2. A new console command was added (localload).
+1. Added new commands and functions to make the plugin development more friendly.
+2. A new console command was added (localload).
       - It can be used to load a dll file (DBEvent, DBCommand or DBSlashCommand) from the specified file (from ./Data/Plugins)
       - Example: localload Leveling System
           => this will load file ./Data/Plugins/Leveling System.dll to the bot
