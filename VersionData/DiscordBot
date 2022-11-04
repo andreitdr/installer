@@ -5,5 +5,5 @@
           => this will load file ./Data/Plugins/Leveling System.dll to the bot
       - This function is now called right after a plugin was downloaded (no need for restart)
  
-Patch number 0.1, r1 from 3.11.2022
+Patch date: 3.11.2022
 Made by Wizzy#9181
