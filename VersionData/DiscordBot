@@ -1,9 +1,16 @@
-1. Added new commands and functions to make the plugin development more friendly.
-2. A new console command was added (localload).
-      - It can be used to load a dll file (DBEvent, DBCommand or DBSlashCommand) from the specified file (from ./Data/Plugins)
-      - Example: localload Leveling System
-          => this will load file ./Data/Plugins/Leveling System.dll to the bot
-      - This function is now called right after a plugin was downloaded (no need for restart)
- 
-Patch date: 3.11.2022
-Made by Wizzy#9181
+Fixed some issues with the plugin loader.
+Fixed some errors with folders missing for new installs of the application.
+Changed how the plugins are loaded. Check README from the main page.
+
+Enabled mention prefix for bot.
+Added loader.json file in /Data/Resources/ for easier startup configuration.
+Improved stability for bots made with WinForms and WPF (not fully tested).
+
+Removed restart command for admins.
+
+Build for OSX has been created but NOT tested.
+
+PS: Contact me on Discord for any question or bug report.
+
+Patch date: 14.02.2023
+Discord: Wizzy#9181
