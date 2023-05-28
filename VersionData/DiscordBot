@@ -1,16 +1,33 @@
-Fixed some issues with the plugin loader.
-Fixed some errors with folders missing for new installs of the application.
-Changed how the plugins are loaded. Check README from the main page.
+Overall:
 
-Enabled mention prefix for bot.
-Added loader.json file in /Data/Resources/ for easier startup configuration.
-Improved stability for bots made with WinForms and WPF (not fully tested).
+    Stability increased for linux based systems.
+    Fixed some bugs on startup
 
-Removed restart command for admins.
+Plugin Manager:
 
-Build for OSX has been created but NOT tested.
+    removed bot specific methods and functions from the API
+    changed how console actions work
+    the bots created with this API can now respond to mentions
+    rebuild the logger from scratch
+    reworked config
+    removed plugin updater as component on the API. This should be handled by the application, not the API
+    reworked how the URLs work. A file should now be generated in the Resources folder (URLs.json) that contain all required URLs for the bot to run. This of course can be modified to suit your needs.
+    renamed CmdArgs to DBCommandExecutingArguments
+    improved documentation
+    moved some functions to other namespaces to make it more clear
+    created Spinner class as another method to display a loading progress
+    moved ConsoleUtilities to the bot as it does not help the API in any way.
+    started working on an API that can be used for Windows Desktop applications too (so it does no need anything related to Console in its core components).
+    the config is now using JSON strings instead of local SQL database. The database is still available tho for plugins.
 
-PS: Contact me on Discord for any question or bug report.
+The bot executable:
 
-Patch date: 14.02.2023
-Discord: Wizzy#9181
+    improved logging. Everything is now logged.
+    console commands have now a better output.
+    removed progress bar as it was buggy on linux systems
+    changed to spinner as the main "loading" progress system
+    downloading plugins or listing plugins now shows the location where the download system will put the file; it will display the url from where the download will occur
+    a new setup script was created to implement the URLs thing. Can be found in Installer.cs
+    removed startup arguments from the bot
+
+Check more on the releases on github.
