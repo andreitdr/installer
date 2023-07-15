@@ -1,4 +1,4 @@
 Leveling System,Leveling System,Plugin,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/LevelingSystem.dll,Linux/Windows
 Music Commands,Some music commands,Plugin,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/MusicLibrary.dll,Windows,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommands.req
 Music Commands,Some music commands,Plugin,https://github.com/Wizzy69/installer/raw/discord-bot-files/Plugins/MusicLibrary.dll,Linux,https://github.com/Wizzy69/installer/raw/discord-bot-files/MusicCommandsLinux.req
-MerosTest,Test,Plugin,https://drive.google.com/uc?export=download&id=1Y3lIh4oVtU6quFQPvz02kIDf8iRgrdUe,Linux
+MerosTest,Test,Plugin,https://file.io/xUwEHLIEEOgz,Linux
